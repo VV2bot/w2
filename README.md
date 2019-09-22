@@ -11,7 +11,7 @@
 6) pkg install python2
 7) pkg install openssh
 git clone https://github.com/VV2bot/w2
-9) cd tron
+9) cd w2
 10) tsu
 11) chmod +x ./tron
 12) ./tron
