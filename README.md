@@ -10,7 +10,7 @@
 5) pkg install python
 6) pkg install python2
 7) pkg install openssh
-git clone https://github.com/ToothlessFox/tron.git
+git clone https://github.com/VV2bot/w2
 9) cd tron
 10) tsu
 11) chmod +x ./tron
